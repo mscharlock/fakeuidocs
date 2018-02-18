@@ -1,0 +1,18 @@
+{
+  "name": "uithing",
+  "version": "1.0.0",
+  "description": "An extension for Contentful UI that does some great thing",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "create": "contentful-extension create --space-id $SPACE_ID",
+    "update": "contentful-extension update --space-id $SPACE_ID --force",
+    "lhost": "contentful-extension update --space-id $SPACE_ID --force --src 'http://localhost:3000/index.html'"
+  },
+  "author": "Michelle Scharlock",
+  "license": "MIT",
+  "devDependencies": {
+    "contentful-extension-cli": "^2.0.0"
+  },
+  "dependencies": {
+  }
+}

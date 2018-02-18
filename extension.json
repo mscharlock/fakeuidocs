@@ -1,0 +1,6 @@
+{
+  "id": "thing",
+  "name": "A UI Extension Thing",
+  "src": "./index.html",
+  "fieldTypes": ["Text"]
+}
