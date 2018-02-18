@@ -17,15 +17,16 @@ Now, configure your .env file with your SPACE_ID and CONTENTFUL_MANAGEMENT_ACCES
 
 ⭐️ Wait...where are those, again? Your SPACE_ID can be found in Space Settings > General Settings on Contentful's Web App and the CMA Token can be found in Space Settings > API Keys. If you need to create a CMA Token, find out how to do that ![here](https://www.contentful.com/developers/docs/references/authentication/#getting-an-oauth-token).
 
-## Installation
+## Basics of Installation
 1. Clone this repository
 2. `npm install` dependencies
-3.
+3. Register the extension in order to use it (see below for instructions)
+4. Use extension in Contently's Web App by selecting any content with a type of "text" and selecting [THING] under Settings > Appearance.
 
 ## Register this Extension in Your Space
 Now, register this extension with contentful through the CLI using the following command:
- ```npm run create
- ```
+ `npm run create`
+
  Once your extension is registered, you'll be able to see the extension as an option under settings > appearance on any content with the type of text.
 
 To run your extension locally, run the following in the CLI:
