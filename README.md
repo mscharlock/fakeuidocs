@@ -58,7 +58,7 @@ npm run update
 
 ## Reporting an issue or submitting a bug
 Issues and/or bugs can be reported on this Github repository. To create a new issue, simply click the green "New Issue" button, and add a description of the issue or bug, with a method for replication if possible.
-If you want to contribute to this extension, feel free to fork this repository and create a pull request, which will be reviewed by one of our team members. 
+If you want to contribute to this extension, feel free to fork this repository and create a pull request, which will be reviewed by one of our team members.
 
 ## License
-This extension uses an MIT license.
+This extension uses an MIT license. For details, see LICENSE.md in this repository.
