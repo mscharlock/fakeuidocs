@@ -15,7 +15,7 @@ npm install -g contentful-cli
 ```
 Now, configure your .env file with your SPACE_ID and CONTENTFUL_MANAGEMENT_ACCESS_TOKEN.
 
-⭐️ Wait...where are those, again? Your SPACE_ID can be found in Space Settings > General Settings on Contentful's Web App and the CMA Token can be found in Space Settings > API Keys. If you need to create a CMA Token, find out how to do that ![here](https://www.contentful.com/developers/docs/references/authentication/#getting-an-oauth-token).
+⭐️ Wait...where are those, again? Your SPACE_ID can be found in Space Settings > General Settings on Contentful's Web App and the CMA Token can be found in Space Settings > API Keys. If you need to create a CMA Token, find out how to do that [here](https://www.contentful.com/developers/docs/references/authentication/#getting-an-oauth-token).
 
 ## Basics of Installation
 1. Clone this repository
@@ -23,7 +23,7 @@ Now, configure your .env file with your SPACE_ID and CONTENTFUL_MANAGEMENT_ACCES
 3. Register the extension in order to use it (see below for instructions)
 4. Use extension in Contently's Web App by selecting any content with a type of "text" and selecting [THING] under Settings > Appearance.
 
-## Register this Extension in Your Space
+## Register this Extension
 Now, register this extension with contentful through the CLI using the following command:
  `npm run create`
 
@@ -41,4 +41,4 @@ If you want to deploy the code from app.html directly again, without having to s
 npm run update
 ```
 
-⭐️Looking for more information on Contentful UI Extensions? Check out the documentation ![here](https://www.contentful.com/developers/docs/references/content-management-api/#/reference/ui-extensions).
+⭐️Looking for more information on Contentful UI Extensions? Check out the documentation [here](https://www.contentful.com/developers/docs/references/content-management-api/#/reference/ui-extensions).
