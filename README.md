@@ -12,7 +12,8 @@ I bet you've always wanted a tool that [does a thing on Contentful's Web App]. O
 
 ## Sample JSON Object and/or Sample Screenshot
 Using [Thing], you'll be able to create content that looks like this:
-```{
+```
+{
 //sample JSON
 }
 ```
